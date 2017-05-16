@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 coucou moi
+=======
+coucou toi
+>>>>>>> 982b7a75e71f4fc37eb50c77772da16940d3d08e
